@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4GbCjzL6DnNy8yep3ru+RMxBeWs6qf8t4+MTIq+sJuxLcq2cTyt4/GedxLRccTx+lS3Uf1Y1l0skvyMDEqfRA==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester 4\\Grafkom\\UASGrafkom12\\UASGrafkom12\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk\\4.6.3\\opentk.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.compute\\4.6.3\\opentk.compute.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.core\\4.6.3\\opentk.core.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.graphics\\4.6.3\\opentk.graphics.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.input\\4.6.3\\opentk.input.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.mathematics\\4.6.3\\opentk.mathematics.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.openal\\4.6.3\\opentk.openal.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.windowing.common\\4.6.3\\opentk.windowing.common.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.windowing.desktop\\4.6.3\\opentk.windowing.desktop.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.3\\opentk.windowing.graphicslibraryframework.4.6.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

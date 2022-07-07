@@ -1,0 +1,60 @@
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.deps.json
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\net6.0\ref\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\ref\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.deps.json
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\bin\Debug\net6.0\ref\LearnOpenTK.Common.dll
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\ref\LearnOpenTK.Common.dll
+C:\Users\USER\Desktop\Petra\Grafika Komputer\Vindar Code\GrafkomUAS\Common\obj\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\bin\Debug\net6.0\LearnOpenTK.Common.deps.json
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\refint\LearnOpenTK.Common.dll
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Materi Kuliah\GrafKom\VS\UAS VinDar\Common\obj\Debug\net6.0\ref\LearnOpenTK.Common.dll
+D:\.KULIAH\SEM 4\pet\Common\bin\Debug\net6.0\LearnOpenTK.Common.deps.json
+D:\.KULIAH\SEM 4\pet\Common\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\.KULIAH\SEM 4\pet\Common\bin\Debug\net6.0\ref\LearnOpenTK.Common.dll
+D:\.KULIAH\SEM 4\pet\Common\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\LearnOpenTK.Common.dll
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\ref\LearnOpenTK.Common.dll
+D:\.KULIAH\SEM 4\pet\Common\obj\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\bin\Debug\net6.0\LearnOpenTK.Common.deps.json
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\bin\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\LearnOpenTK.Common.dll
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\refint\LearnOpenTK.Common.dll
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\LearnOpenTK.Common.pdb
+D:\Kuliah\Semester 4\Grafkom\CommonJadi\Common\obj\Debug\net6.0\ref\LearnOpenTK.Common.dll

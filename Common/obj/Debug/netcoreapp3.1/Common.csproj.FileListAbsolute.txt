@@ -1,0 +1,63 @@
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\OpenWindow\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\OpenWindow\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\OpenWindow\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\OpenWindow\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asdos\GrafKom\Pertemuan1\Pertemuan1\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asdos\GrafKom\Pertemuan7\Camera\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\Grafkom2\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\vince\source\repos\Grafkom2\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\Grafkom2\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\Grafkom2\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Carolyn\source\repos\Grafkom3\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\Carolyn\source\repos\Grafkom3\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Carolyn\source\repos\Grafkom3\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Carolyn\source\repos\Grafkom3\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\vince\source\repos\GrafkomUAS\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
